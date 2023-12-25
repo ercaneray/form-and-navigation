@@ -1,3 +1,6 @@
-Basic react native project with use of form nad navigation.
+Basic react native project with the use of form and navigation.
 ---
-![](https://github.com/ercaneray/form-and-navigation/blob/main/form.gif)
+<p align="center">
+  <img src="https://github.com/ercaneray/form-and-navigation/blob/main/form.gif"/>
+</p>
+---
